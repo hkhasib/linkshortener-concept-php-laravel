@@ -21,7 +21,7 @@ Running this project is very easy. To do it, you can follow these steps.
 
 You can modify/customize this project. I hope this project will help to understand how to build a custom link shortening application with Laravel.
 
-##A Few Screenshots
+## A Few Screenshots
 
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/9F5kP91F/Screenshot-2021-10-06-at-10-13-16-PM.png" alt="Screenshot-2021-10-06-at-10-13-16-PM"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/nc4P3LwK/Screenshot-2021-10-06-at-10-14-12-PM.png" alt="Screenshot-2021-10-06-at-10-14-12-PM"/></a><br/><br/>
