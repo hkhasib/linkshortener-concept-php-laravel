@@ -1,4 +1,4 @@
-## About LinkShortener in PHP
+## About LinkShortener in PHP (Laravel)
 
 This LinkShortener is a web application based on Laravel (PHP) that can shorten any long URL. You can use it like bitly. But, It is self hosted. Currently, The initial version has the following features:
 
