@@ -14,6 +14,7 @@ Running this project is very easy. To do it, you can follow these steps.
 - Then, Download this project and open it with any editor.
 - Now, type composer update in the terminal and hit enter. If your editor doesn't have built in terminal, you can use default terminal of your OS.
 - Rename the .env.example to .env and put your database details here.
+- Also define your APP_URL there.
 - Then run this command "php artisan migrate" and then, this one "php artisan db:seed"
 - Now, You can run your project from local host. However, You also can use this command "php artisan serv" to test this project.
 - The default username is "hasib" and password is "123456". Use this credential to login and create shortlink
